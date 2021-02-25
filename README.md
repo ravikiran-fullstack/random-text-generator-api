@@ -1,6 +1,6 @@
 # random-text-generator-api
 
-I) API documentation
+I) API documentation:
   This API helps us generate random text required by any application, please read the documentaion for available endpoints and parameters required to be passed
  
  Currenntly available endpoints
